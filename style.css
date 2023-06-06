@@ -1,6 +1,6 @@
 header{
- background-color:(#00FF00);
- color: rgb(0000FF);
+ background-color:rgb (255, 255 255);
+ color: rgb( 0, 0, 0,)
  display:flex;
  justify-content: space-around;
 }
@@ -29,8 +29,8 @@ escola.imagem {
 
 }
 .escola {
-    background-image: linear-gradient();
-    color:rgb(00000);
+    background-image: 
+    color:rgb(21, 216, 216);
     display: flex;
     justify-content: center;
     align-items: center;
