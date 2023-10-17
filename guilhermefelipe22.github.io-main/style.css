@@ -1,0 +1,41 @@
+header{
+ background-color:rgb (255, 255, 255);
+ color: rgb(117, 253, 212, 0.603);
+ display:flex;
+ justify-content: space-around;
+}
+
+.cabecalho-imagem{
+    width: 50%;
+    display:flex;
+    justify-content: center;
+
+}
+
+.cabecalho-list-item{
+    display: inline-block;
+  margin: 0 16px;
+  padding: 24px 0;
+  font-size: 24px;
+}
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+escola.imagem {
+    width: 25%;
+
+}
+.escola {
+    background-image: 
+    color:rgb(21, 216, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.escola-conteudo {
+    width: 35px; 
+}
